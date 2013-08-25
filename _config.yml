@@ -1,4 +1,13 @@
-name: Your New Jekyll Site
+name: sonnyhuynh.com
+
+author:
+    name: "Sonny Huynh"
+    description: "sonny is awesome"
+    email: sonny@sonnyhuynh.com
+    github: sonnyhuynh
+    twitter: sonny_huynh
+    linkedin: sonnyhuynh
+
 markdown: redcarpet
 pygments: true
 permalink: /:title
