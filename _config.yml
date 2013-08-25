@@ -12,3 +12,6 @@ markdown: redcarpet
 pygments: true
 permalink: /:title
 images: /assets/posts
+
+analytics:
+    id: UA-33823626-1
