@@ -1,0 +1,35 @@
+---
+layout: post
+
+title: Basic South Commands
+date: 2013-05-01 06:55 PM
+
+categories: coding
+tags: basics django python
+
+published: true
+---
+
+Initial Migration
+{% highlight bash %}
+$ python manage.py schemamigration [app] --initial
+{% endhighlight %}
+
+Add Migration
+{% highlight bash %}
+$ python manage.py schemamigration [app] --auto
+{% endhighlight %}
+
+Apply Migration
+{% highlight bash %}
+$ python manage.py migrate [app]
+{% endhighlight %}
+
+Convert existing DB to South
+{% highlight bash %}
+~ $ python manage.py syncdb
+~ $ python manage.py convert_to_south [app]
+{% endhighlight %}
+
+### More Information
+- South Website | [south.aeracode.org](http://south.aeracode.org/)
