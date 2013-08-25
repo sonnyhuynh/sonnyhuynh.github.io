@@ -1,1 +1,5 @@
 _site
+.idea
+*.iml
+*.sh
+_drafts
