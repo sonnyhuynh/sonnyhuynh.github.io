@@ -1,0 +1,18 @@
+{% assign total_posts = site.posts | size %}
+
+{% for current in site.posts %}
+    {% if include.param.title == current.title %}
+        {% assign older_post = forloop.index0 | plus: 1 %}
+        {% assign newer_post = forloop.index0 | minus: 1 %}
+    {% endif %}
+{% endfor %}
+
+<ul>
+    {% if older_post < total_posts %}
+    <li>Previous Post: <a href="{{ site.posts[older_post].url }}">{{ site.posts[older_post].title }}</a></li>
+    {% endif %}
+
+    {% if newer_post >= 0 %}
+    <li>Next Post: <a href="{{ site.posts[newer_post].url }}">{{ site.posts[newer_post].title }}</a></li>
+    {% endif %}
+</ul>
