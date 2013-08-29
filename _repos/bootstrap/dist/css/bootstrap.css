@@ -324,13 +324,13 @@ textarea {
 }
 
 a {
-  color: #428bca;
+  color: #df8a13;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #2a6496;
+  color: #f0ad4e;
   text-decoration: underline;
 }
 
@@ -2294,7 +2294,7 @@ fieldset[disabled] .btn-info.active {
 
 .btn-link {
   font-weight: normal;
-  color: #428bca;
+  color: #df8a13;
   cursor: pointer;
   border-radius: 0;
 }
@@ -2317,7 +2317,7 @@ fieldset[disabled] .btn-link {
 
 .btn-link:hover,
 .btn-link:focus {
-  color: #2a6496;
+  color: #f0ad4e;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -3845,7 +3845,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav .open > a:hover,
 .nav .open > a:focus {
   background-color: #eeeeee;
-  border-color: #428bca;
+  border-color: #df8a13;
 }
 
 .nav .nav-divider {
@@ -4045,13 +4045,13 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .nav .caret {
-  border-top-color: #428bca;
-  border-bottom-color: #428bca;
+  border-top-color: #df8a13;
+  border-bottom-color: #df8a13;
 }
 
 .nav a:hover .caret {
-  border-top-color: #2a6496;
-  border-bottom-color: #2a6496;
+  border-top-color: #f0ad4e;
+  border-bottom-color: #f0ad4e;
 }
 
 .nav-tabs .dropdown-menu {
@@ -4959,7 +4959,7 @@ a.badge:focus {
 
 a.list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
-  color: #428bca;
+  color: #df8a13;
   background-color: #ffffff;
 }
 
@@ -5027,7 +5027,7 @@ a.list-group-item.active > .badge,
 
 a.thumbnail:hover,
 a.thumbnail:focus {
-  border-color: #428bca;
+  border-color: #df8a13;
 }
 
 .thumbnail > img {
