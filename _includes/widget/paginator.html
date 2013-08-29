@@ -7,12 +7,17 @@
     {% endif %}
 {% endfor %}
 
-<ul>
-    {% if older_post < total_posts %}
-    <li>Previous Post: <a href="{{ site.posts[older_post].url }}">{{ site.posts[older_post].title }}</a></li>
-    {% endif %}
-
-    {% if newer_post >= 0 %}
-    <li>Next Post: <a href="{{ site.posts[newer_post].url }}">{{ site.posts[newer_post].title }}</a></li>
-    {% endif %}
+<ul class="list-unstyled spacing row">
+    <li class="col-xs-6">
+        {% if older_post < total_posts %}
+        <p class="text-uppercase"><small>Previous</small></p>
+        <a href="{{ site.posts[older_post].url }}">{{ site.posts[older_post].title }}</a>
+        {% endif %}
+    </li>
+    <li class="col-xs-6 text-right">
+        {% if newer_post >= 0 %}
+        <p class="text-uppercase"><small>Next</small></p>
+        <a href="{{ site.posts[newer_post].url }}">{{ site.posts[newer_post].title }}</a>
+        {% endif %}
+    </li>
 </ul>
