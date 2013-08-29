@@ -12,6 +12,8 @@ published: true
 
 Since my recent purchase of JetBrains' IntelliJ IDEA, I've had to move my PyCharm 2.7.1 projects to IntelliJ IDEA 12.1.1 on my Mac. The process isn't as smooth as it should be, so here's a short guide on the migration.
 
+<!--more Check it out after the jump!-->
+
 
 ### Before you begin
 

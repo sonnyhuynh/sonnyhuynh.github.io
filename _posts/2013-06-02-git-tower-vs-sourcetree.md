@@ -20,6 +20,8 @@ _Using a Git client should not be a way to avoid learning Git via command line; 
 
 _It is essential to know your way around Git via command line, as sometimes you may not have the luxury of having a client around. Sometimes doing things via command line is quicker than clicking around on a client. Also sometimes what you trying to do may not exist in a particular client, but can be done via command line._
 
+<!--more My quick review lies after the jump.-->
+
 ### Functionality
 
 During my time with each client, there wasn't a need to open up the command line, so both clients fulfilled my Git needs. Therefore, I couldn't pick one over the other solely based on functionality.

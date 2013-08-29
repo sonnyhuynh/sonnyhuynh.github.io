@@ -20,6 +20,8 @@ For my Python Django development, I have been using [PyCharm]. I absolutely love
 
 After all the trial periods expired, the dilemma was created: Pay for the full version or find new free software.
 
+<!--more The story continues...-->
+
 If I buy all three, it would cost me: $99 (PyCharm) + $49 (WebStorm) + $99 (PhpStorm) = **$247**
 
 Too much for me. Maybe I could save somehow? Do I really need all of these? Actually I don't. I don't need WebStorm, since PhpStorm is basically WebStorm + PHP.

@@ -12,6 +12,8 @@ published: true
 
 I was looking to write and edit my posts directly with [Markdown](http://daringfireball.net/projects/markdown/) syntax to streamline my posting workflow. I stumbled upon and tried out these two Markdown WordPress plugins: [Markdown on Save Improved](http://wordpress.org/extend/plugins/markdown-on-save-improved/) and [WP-Markdown](http://wordpress.org/extend/plugins/wp-markdown/).
 
+<!--more Here is a quick rundown on my experience with them.-->
+
 After a quick glance at the two plugins, the biggest difference is how the posts are accessed and stored:
 
 - Markdown on Save Improved 

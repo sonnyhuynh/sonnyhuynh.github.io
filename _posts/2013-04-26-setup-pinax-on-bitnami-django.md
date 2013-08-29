@@ -12,6 +12,8 @@ published: true
 
 Wrote a walkthrough to show you how to install a [Bitnami Django 1.4.5](http://bitnami.com/stack/django) stack on a Mac or Linux box and then setup + deploy the [pinax-project-account](https://github.com/pinax/pinax-project-account) Django starter project with a newly created sqlite3 DB that can be accessed at `localhost:8080`.
 
+<!--more Check it out after the jump!-->
+
 
 ### Before you begin
 
