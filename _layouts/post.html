@@ -6,6 +6,16 @@ layout: default
 
 {% include post/header.html param=post %}
 
+{% if content contains '<!--more' %}
+    {% assign split = content | split:'<!--more' %}
+
+    {% assign excerpt = split | first %}
+
+    {% assign content = split | last | split:'-->' | last %}
+
+    {{ excerpt }}
+{% endif %}
+
 {{ content }}
 
 {% include post/footer.html param=post %}

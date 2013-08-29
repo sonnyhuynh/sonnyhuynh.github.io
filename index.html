@@ -6,6 +6,18 @@ title: Home
 
 {% include post/header.html param=post %}
 
-{{ post.content }}
+{% if post.content contains '<!--more' %}
+    {% assign split = post.content | split:'<!--more' %}
+
+    {% assign excerpt = split | first %}
+
+    {% assign more_text = split | last | split:'-->' | first %}
+
+    {{ excerpt }}
+
+    <p><a href="{{ post.url }}">{{ more_text }}</a></p>
+{% else %}
+    {{ post.content }}
+{% endif %}
 
 {% include post/footer.html param=post %}
