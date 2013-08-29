@@ -1,0 +1,7 @@
+{% assign num_tags = page.tags | size %}
+
+<div class="tags spacing text-lowercase link-underline">
+    <small>
+        <strong class="text-uppercase">Tags:</strong> {% if num_tags == 0 %}none{% else %}{% for tag in page.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
+    </small>
+</div>
