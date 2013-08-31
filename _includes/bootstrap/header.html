@@ -12,3 +12,21 @@
     <link href="/assets/css/bootstrap.custom.min.css" rel="stylesheet">
 </head>
 <body>
+
+<section class="container">
+    <div class="row">
+        <div class="col-md-4 col-md-push-8 col-sm-5 col-sm-push-7">
+            <header>
+                <h1 class="text-lowercase"><a href="/">{{ site.name }}</a></h1>
+            </header>
+            {% include widget/social.html %}
+
+            <hr/>
+
+            {% include widget/search.html %}
+
+            <hr/>
+
+            {% include widget/latest_posts.html %}
+        </div>
+        <div class="col-md-8 col-md-pull-4 col-sm-7 col-sm-pull-5">
