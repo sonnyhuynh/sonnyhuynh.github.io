@@ -1,0 +1,9 @@
+{% assign title_prepend = "Tag: " %}
+
+{% assign title = page.title | downcase | prepend:title_prepend %}
+
+{% include bootstrap/header.html title=title %}
+            <h2>{{ title_prepend }} <em>{{ page.title | downcase }}</em></h2>
+
+            {{ content }}
+{% include bootstrap/footer.html %}
