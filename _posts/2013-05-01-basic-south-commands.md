@@ -2,6 +2,7 @@
 layout: post
 
 title: Basic South Commands
+description: Quick reference for basic Django South commands
 date: 2013-05-01 06:55 PM
 
 categories: coding
