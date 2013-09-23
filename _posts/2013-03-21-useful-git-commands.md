@@ -2,6 +2,7 @@
 layout: post
 
 title: Useful Git Commands
+description: Quick reference for useful git commands
 date: 2013-03-21 10:31 PM
 
 categories: coding
