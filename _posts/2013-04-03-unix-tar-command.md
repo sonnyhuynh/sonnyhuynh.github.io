@@ -2,6 +2,7 @@
 layout: post
 
 title: Unix Tar Command
+description: Quick reference for the Unix `tar` command
 date: 2013-04-03 06:59 PM
 
 categories: coding
