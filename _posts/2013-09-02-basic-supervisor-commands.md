@@ -2,6 +2,7 @@
 layout: post
 
 title: Basic Supervisor Commands
+description: Quick reference for basic Supervisor commands
 date: 2013-09-02 11:34 AM
 
 categories: coding
