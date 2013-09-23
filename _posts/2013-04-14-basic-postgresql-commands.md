@@ -2,6 +2,7 @@
 layout: post
 
 title: Basic PostgreSQL Commands
+description: Quick reference for basic PostgreSQL commands
 date: 2013-04-14 06:24 PM
 
 categories: coding
