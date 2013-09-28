@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /git-tower-vs-sourcetree
 
 title: "Review: Git Clients for Mac - Tower vs SourceTree"
 description: Quick review/comparison on Git Tower and SourceTree

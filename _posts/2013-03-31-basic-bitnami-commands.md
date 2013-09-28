@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /basic-bitnami-commands
 
 title: Basic Bitnami Commands
 description: Quick reference for basic Bitnami stack commands

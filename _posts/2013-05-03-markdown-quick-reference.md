@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /markdown-quick-reference
 
 title: Markdown Quick Reference (with Demo!)
 date: 2013-05-03 08:23 PM

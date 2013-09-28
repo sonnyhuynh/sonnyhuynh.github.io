@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /basic-virtualenv-commands
 
 title: Basic Virtualenv Commands
 description: Quick reference for basic virtualenv commands

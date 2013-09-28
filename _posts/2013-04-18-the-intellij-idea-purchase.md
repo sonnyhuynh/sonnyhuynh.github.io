@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /the-intellij-idea-purchase
 
 title: The IntelliJ IDEA Purchase
 description: "This a story about my decision making process that led to the purchase an awesome all-purpose IDE: JetBrains' IntelliJ IDEA"

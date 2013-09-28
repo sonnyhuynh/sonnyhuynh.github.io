@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /import-pycharm-project-to-intellij
 
 title: Import a PyCharm Project to IntelliJ IDEA
 description: How to import a PyCharm 2.7.1 project to IntelliJ IDEA 12.1.1 for Mac

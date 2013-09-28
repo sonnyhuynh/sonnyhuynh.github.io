@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /why-i-switched-to-jekyll
 
 title: Why I switched from WordPress to Jekyll
 date: 2013-08-27 04:30 PM

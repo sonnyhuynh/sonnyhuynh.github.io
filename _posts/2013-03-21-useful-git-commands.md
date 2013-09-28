@@ -1,5 +1,6 @@
 --- 
 layout: post
+permalink: /useful-git-commands
 
 title: Useful Git Commands
 description: Quick reference for useful git commands

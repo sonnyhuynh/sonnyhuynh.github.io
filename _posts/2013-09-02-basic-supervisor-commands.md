@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /basic-supervisor-commands
 
 title: Basic Supervisor Commands
 description: Quick reference for basic Supervisor commands

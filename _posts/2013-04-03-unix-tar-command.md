@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /unix-tar-command
 
 title: Unix Tar Command
 description: Quick reference for the Unix `tar` command

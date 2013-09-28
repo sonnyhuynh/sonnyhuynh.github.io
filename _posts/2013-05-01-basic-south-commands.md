@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /basic-south-commands
 
 title: Basic South Commands
 description: Quick reference for basic Django South commands
