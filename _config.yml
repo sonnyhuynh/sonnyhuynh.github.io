@@ -11,7 +11,7 @@ author:
 
 markdown: redcarpet
 pygments: true
-permalink: /:title
+permalink: /:categories/:title
 images: /assets/posts
 
 analytics:
