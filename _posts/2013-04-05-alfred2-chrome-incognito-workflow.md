@@ -6,8 +6,8 @@ title: Alfred 2 Chrome Incognito Workflow
 description: Opens Chrome in Incognito Mode or opens a new Incognito Window
 date: 2013-04-05 11:10 PM
 
-categories: apps
-tags: alfred
+categories: productivity
+tags: apps alfred
 
 published: true
 ---
