@@ -6,8 +6,8 @@ title: The IntelliJ IDEA Purchase
 description: "This a story about my decision making process that led to the purchase an awesome all-purpose IDE: JetBrains' IntelliJ IDEA"
 date: 2013-04-18 06:43 PM
 
-categories: apps
-tags: intellij
+categories: coding
+tags: apps intellij
 
 published: true
 ---
