@@ -3,3 +3,9 @@
 .text-monospace{font-family:Monaco,Menlo,Consolas,"Courier New",monospace}
 .text-uppercase{text-transform:uppercase}
 .text-lowercase{text-transform:lowercase}
+@media (min-width:768px){.social{margin-top:20px}}
+.navbar-brand{font-weight:bold;font-size:2.5em}
+.navbar-nav{font-size:1.5em;letter-spacing:1px}
+.s-header{background:#333}@media (max-width:767px){.s-header{background:transparent}}
+@media (min-width:768px){.navbar{margin-bottom:0}}
+.navbar-btn{margin-top:6px;margin-bottom:6px}
