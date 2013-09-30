@@ -14,20 +14,42 @@
 </head>
 <body>
 
+<div class="s-header">
+    <header class="container">
+        <div class="row">
+            <div class="navbar navbar-default" role="navigation">
+                <div class="navbar-header">
+                    <a class="navbar-brand text-lowercase" href="/">{{ site.name }}</a>
+
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+
+                <div class="collapse navbar-collapse navbar-ex1-collapse">
+                    {% include widget/categories.html %}
+
+                    {% include widget/social.html is_nav="True" %}
+                </div>
+            </div>
+        </div>
+    </header>
+</div>
+
 <section class="container">
     <div class="row">
         <div class="col-md-4 col-md-push-8 col-sm-5 col-sm-push-7">
-            <header>
-                <h1 class="text-lowercase"><a href="/">{{ site.name }}</a></h1>
-            </header>
             {% include widget/social.html %}
-
-            <hr/>
 
             {% include widget/search.html %}
 
             <hr/>
 
             {% include widget/latest_posts.html %}
+
+            <hr/>
         </div>
         <div class="col-md-8 col-md-pull-4 col-sm-7 col-sm-pull-5">

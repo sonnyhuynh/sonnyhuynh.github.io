@@ -1,0 +1,8 @@
+{% assign page_category = page.categories | first %}
+
+<nav class="nav navbar-nav">
+    {% for category in site.categories %}
+    {% assign current_category = category | first %}
+    <li{% if page_category == current_category %} class="active"{% endif %}><a href="/{{ current_category }}">{{ current_category }}</a></li>
+    {% endfor %}
+</nav>
