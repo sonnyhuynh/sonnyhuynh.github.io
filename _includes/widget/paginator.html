@@ -1,23 +1,42 @@
-{% assign total_posts = site.posts | size %}
+{% assign page_category = include.param.categories | first %}
+{% assign page_title = include.param.title %}
 
+{% assign state = 0 %}
 {% for current in site.posts %}
-    {% if include.param.title == current.title %}
-        {% assign older_post = forloop.index0 | plus: 1 %}
-        {% assign newer_post = forloop.index0 | minus: 1 %}
+    {% assign current_category = current.categories | first %}
+    {% if page_category == current_category %}
+        {% if page_title == current.title %}
+            {% assign state = 1 %}
+        {% endif %}
+
+        {% case state %}
+            {% when 2 %}
+                {% assign older_post = current %}
+
+                {% assign state = 3 %}
+            {% when 1 %}
+                {% if previous_post %}
+                    {% assign newer_post = previous_post %}
+                {% endif %}
+
+                {% assign state = 2 %}
+            {% when 0 %}
+                {% assign previous_post = current %}
+        {% endcase %}
     {% endif %}
 {% endfor %}
 
 <ul class="list-unstyled spacing row">
     <li class="col-xs-6">
-        {% if older_post < total_posts %}
+        {% if older_post %}
         <p class="text-uppercase"><small>Previous</small></p>
-        <a href="{{ site.posts[older_post].url }}">{{ site.posts[older_post].title }}</a>
+        <a href="{{ older_post.url }}">{{ older_post.title }}</a>
         {% endif %}
     </li>
     <li class="col-xs-6 text-right">
-        {% if newer_post >= 0 %}
+        {% if newer_post %}
         <p class="text-uppercase"><small>Next</small></p>
-        <a href="{{ site.posts[newer_post].url }}">{{ site.posts[newer_post].title }}</a>
+        <a href="{{ newer_post.url }}">{{ newer_post.title }}</a>
         {% endif %}
     </li>
 </ul>
