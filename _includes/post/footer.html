@@ -7,8 +7,10 @@
 
 {% include widget/tag_cloud.html %}
 
-<hr/>
+{% endif %}
 
-{% include widget/paginator.html param=include.param %}
+{% if page.url != "/index.html" %}
+    <hr/>
 
+    {% include widget/paginator.html param=include.param %}
 {% endif %}
