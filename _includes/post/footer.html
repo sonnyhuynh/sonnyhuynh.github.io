@@ -1,6 +1,6 @@
 </div>
 
-{% assign post = include.param %}
+{% assign post = include.post %}
 
 {% if page.url == post.url %}
     <hr/>
@@ -9,5 +9,5 @@
 
 {% if page.url != "/index.html" %}
     <hr/>
-    {% include widget/paginator.html param=post %}
+    {% include widget/paginator.html post=post %}
 {% endif %}

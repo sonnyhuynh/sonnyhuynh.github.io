@@ -1,5 +1,5 @@
-{% assign page_category = include.param.categories | first %}
-{% assign page_title = include.param.title %}
+{% assign page_category = include.post.categories | first %}
+{% assign page_title = include.post.title %}
 
 {% assign state = 0 %}
 {% for current in site.posts %}

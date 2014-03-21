@@ -1,4 +1,4 @@
-{% include post/header.html param=post %}
+{% include post/header.html post=post %}
 
 {% if post.content contains '<!--more' %}
     {% assign split = post.content | split:'<!--more' %}
@@ -14,4 +14,4 @@
 {{ post.content }}
 {% endif %}
 
-{% include post/footer.html param=post %}
+{% include post/footer.html post=post %}
