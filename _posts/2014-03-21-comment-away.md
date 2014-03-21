@@ -16,6 +16,8 @@ published: true
 
 Had the urge to tinker with something new today, so I decided to integrate the [Disqus] commenting system to the site.
 
+> Fun fact: <a href="/welcome">This blog was launched exactly a year ago.</a> Woohoo!
+
    [this]: {{ page.url }}
    [Disqus Logo]: {{ site.images }}{{ page.url }}/disqus-logo-white-blue.png "Disqus"
    [Disqus]: http://disqus.com/
