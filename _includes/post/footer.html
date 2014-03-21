@@ -2,15 +2,11 @@
 
 
 {% if page.url == include.param.url %}
-
-<hr/>
-
-{% include widget/tag_cloud.html %}
-
+    <hr/>
+    {% include widget/tag_cloud.html %}
 {% endif %}
 
 {% if page.url != "/index.html" %}
     <hr/>
-
     {% include widget/paginator.html param=include.param %}
 {% endif %}
