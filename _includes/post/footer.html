@@ -17,3 +17,12 @@
     <hr/>
     {% include widget/paginator.html post=post %}
 {% endif %}
+
+{% if site.comments %}
+    <hr/>
+    {% if isSinglePost %}
+        {% include widget/comments.html post=include.post %}
+    {% else %}
+        {% include widget/comments_count.html post=include.post %}
+    {% endif %}
+{% endif %}
