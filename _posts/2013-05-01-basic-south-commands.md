@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /basic-south-commands
+comments: true
 
 title: Basic South Commands
 description: Quick reference for basic Django South commands

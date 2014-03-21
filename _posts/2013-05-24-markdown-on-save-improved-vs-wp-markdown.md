@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /markdown-on-save-improved-vs-wp-markdown
+comments: true
 
 title: Markdown on Save Improved vs WP-Markdown
 description: "A short review on two Markdown WordPress plugins: Markdown on Saved Improved and WP-Markdown"

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 
 title: FTP - ASCII vs Binary
 description: General rule of thumb for deciding which FTP transfer mode to use

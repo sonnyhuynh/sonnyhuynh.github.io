@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /alfred2-chrome-incognito-workflow
+comments: true
 
 title: Alfred 2 Chrome Incognito Workflow
 description: Opens Chrome in Incognito Mode or opens a new Incognito Window

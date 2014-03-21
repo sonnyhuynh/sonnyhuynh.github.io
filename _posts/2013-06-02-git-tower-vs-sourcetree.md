@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /git-tower-vs-sourcetree
+comments: true
 
 title: "Review: Git Clients for Mac - Tower vs SourceTree"
 description: Quick review/comparison on Git Tower and SourceTree

@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /basic-bitnami-commands
+comments: true
 
 title: Basic Bitnami Commands
 description: Quick reference for basic Bitnami stack commands

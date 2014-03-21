@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /basic-postgresql-commands
+comments: true
 
 title: Basic PostgreSQL Commands
 description: Quick reference for basic PostgreSQL commands

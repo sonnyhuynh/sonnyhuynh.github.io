@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 
 title: "Mac Apps I'm Thankful For"
 description: "The Mac apps that I'm thankful for this year."

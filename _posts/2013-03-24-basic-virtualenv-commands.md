@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /basic-virtualenv-commands
+comments: true
 
 title: Basic Virtualenv Commands
 description: Quick reference for basic virtualenv commands

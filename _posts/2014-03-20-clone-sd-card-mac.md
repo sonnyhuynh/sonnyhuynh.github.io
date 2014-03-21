@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 
 title: "Clone SD Card (Mac)"
 description: "How to clone an SD card on Mac"

@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /basic-supervisor-commands
+comments: true
 
 title: Basic Supervisor Commands
 description: Quick reference for basic Supervisor commands

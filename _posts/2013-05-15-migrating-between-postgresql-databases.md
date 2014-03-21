@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /migrating-between-postgresql-databases
+comments: true
 
 title: Migrating between PostgreSQL Databases
 description: Commands for migrating from one PostgreSQL database to another

@@ -1,6 +1,7 @@
 --- 
 layout: post
 permalink: /useful-git-commands
+comments: true
 
 title: Useful Git Commands
 description: Quick reference for useful git commands
