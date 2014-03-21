@@ -17,5 +17,5 @@ images: /assets/posts
 analytics:
     id: UA-33823626-1
 
-comments: false
+comments: true
 disqus_shortname: sonnyhuynh
