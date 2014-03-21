@@ -1,12 +1,13 @@
 </div>
 
+{% assign post = include.param %}
 
-{% if page.url == include.param.url %}
+{% if page.url == post.url %}
     <hr/>
     {% include widget/tag_cloud.html %}
 {% endif %}
 
 {% if page.url != "/index.html" %}
     <hr/>
-    {% include widget/paginator.html param=include.param %}
+    {% include widget/paginator.html param=post %}
 {% endif %}
