@@ -1,5 +1,11 @@
 {% assign page_category = page.categories | first %}
 
+{% unless page_category %}
+    {% if page.categories %}
+        {% assign page_category = page.categories %}
+    {% endif %}
+{% endunless %}
+
 <nav class="nav navbar-nav">
     {% for category in site.categories %}
     {% assign current_category = category | first %}
