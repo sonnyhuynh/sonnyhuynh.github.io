@@ -14,6 +14,11 @@ pygments: true
 permalink: /:categories/:title
 images: /assets/posts
 
+exclude: [
+"README.md",
+"CNAME",
+]
+
 analytics:
     id: UA-33823626-1
 
