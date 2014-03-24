@@ -1,6 +1,12 @@
 {% assign post = include.post %}
 
-<h2>{% if page.url != post.url %}<a href="{{ post.url }}">{% endif %}{{ post.title }}{% if page.url != post.url %}</a>{% endif %}</h2>
+{% if page.url == post.url %}
+    {% assign isSinglePost = true %}
+{% else %}
+    {% assign isSinglePost = false %}
+{% endif %}
+
+<h2>{% unless isSinglePost%}<a href="{{ post.url }}">{% endunless %}{{ post.title }}{% unless isSinglePost %}</a>{% endunless %}</h2>
 <p class="text-muted text-monospace"><small>{{ post.date | date_to_string }}</small></p>
 
 <hr/>
