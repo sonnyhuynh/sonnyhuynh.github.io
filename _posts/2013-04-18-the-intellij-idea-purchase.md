@@ -10,10 +10,10 @@ date: 2013-04-18 06:43 PM
 categories: coding
 tags: apps intellij
 
+image: logo_intellij_idea.gif
+
 published: true
 ---
-
-[![JetBrains IntelliJ IDEA logo][IntelliJ Logo]][this]
 
 This a rant/story about my decision making process that led to the purchase an awesome all-purpose IDE: JetBrains' [IntelliJ IDEA].
 
@@ -59,8 +59,6 @@ Obviously, this beat the pants off all previous prices, so it's something I just
 
 Now I'm a happy and proud owner of [IntelliJ IDEA]! Thanks [@jetbrains] for making your product so awesome (and for the great deal)!
 
-   [this]: {{ page.url }}
-   [IntelliJ Logo]: {{ site.images }}{{ page.url }}/logo_intellij_idea.gif "The IntelliJ IDEA Purchase"
    [IntelliJ IDEA]: http://www.jetbrains.com/idea
    [PyCharm]: http://www.jetbrains.com/pycharm
    [WebStorm]: http://www.jetbrains.com/webstorm
