@@ -16,4 +16,4 @@ published: true
 
 Had the urge to tinker with something new today, so I decided to integrate the [Disqus](http://disqus.com/) commenting system to the site.
 
-> Fun fact: [This blog was launched exactly a year ago.](/welcome) Woohoo!
+> Fun fact: [This blog was launched exactly a year ago.]({% post_url 2013-03-21-welcome %}) Woohoo!
