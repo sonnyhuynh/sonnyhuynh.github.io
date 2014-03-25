@@ -10,10 +10,10 @@ date: 2013-06-02 02:17 PM
 categories: coding
 tags: reviews
 
+image: tower_vs_sourcetree.png
+
 published: true
 ---
-
-[![Tower vs SourceTree][Tower vs SourceTree]][this]
 
 Recently, I have been playing around with Git clients to try to improve my productivity. Here's a quick rundown on my experience with two Git clients: [Tower] and [SourceTree]. I spent 30 days with each client to fully familiarize and evaluate the products.
 
@@ -35,13 +35,13 @@ During my time with each client, there wasn't a need to open up the command line
     <li class="span4">
         <div class="thumbnail">
             <p>Tower's UI</p>
-            <a href="{{ site.images }}{{ page.url }}/screenshot_tower.png"  title="Screenshot of Tower"><img src="{{ site.images }}{{ page.url }}/screenshot_tower.png" alt="Enlarge screenshot of Tower"  title="Screenshot of Tower"></a>
+            <a href="{{ site.images }}{{ page.url }}/screenshot_tower.png"  title="Screenshot of Tower"><img class="img-responsive" src="{{ site.images }}{{ page.url }}/screenshot_tower.png" alt="Enlarge screenshot of Tower"  title="Screenshot of Tower"></a>
         </div>
     </li>
   <li class="span4">
         <div class="thumbnail">
             <p>SourceTree's UI</p>
-            <a href="{{ site.images }}{{ page.url }}/screenshot_sourcetree.png"  title="Screenshot of SourceTree"><img src="{{ site.images }}{{ page.url }}/screenshot_sourcetree.png" alt="Enlarge screenshot of SourceTree" title="Screenshot of SourceTree"></a>
+            <a href="{{ site.images }}{{ page.url }}/screenshot_sourcetree.png"  title="Screenshot of SourceTree"><img class="img-responsive" src="{{ site.images }}{{ page.url }}/screenshot_sourcetree.png" alt="Enlarge screenshot of SourceTree" title="Screenshot of SourceTree"></a>
         </div>
     </li>
 </ul>
@@ -69,7 +69,5 @@ In the end, I still sometimes use Git via command line. Typically, it's when I'm
 - Tower | [git-tower.com][Tower]
 - SourceTree | [sourcetreeapp.com][SourceTree]
 
-   [this]: {{ page.url }}
-   [Tower vs SourceTree]: {{ site.images }}{{ page.url }}/tower_vs_sourcetree.png "Git Tower vs SourceTree"
    [Tower]: http://www.git-tower.com/ "Tower"
    [SourceTree]: http://www.sourcetreeapp.com/ "SourceTree"
