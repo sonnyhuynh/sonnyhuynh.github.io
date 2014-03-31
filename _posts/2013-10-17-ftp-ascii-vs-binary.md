@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /coding/ftp-ascii-vs-binary
 comments: true
 
 title: FTP - ASCII vs Binary
