@@ -17,6 +17,7 @@ images: /assets/posts
 exclude: [
 "README.md",
 "CNAME",
+"Gemfile*",
 ]
 
 analytics:
