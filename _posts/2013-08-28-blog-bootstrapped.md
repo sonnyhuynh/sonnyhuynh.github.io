@@ -5,7 +5,7 @@ permalink: /blog-bootstrapped
 title: Blog BOOTSTRAPPED!
 date: 2013-08-28 9:32 PM
 
-categories: news
+categories: rants
 tags: []
 
 published: true

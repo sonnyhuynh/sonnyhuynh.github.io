@@ -6,8 +6,8 @@ comments: true
 title: Markdown Quick Reference (with Demo!)
 date: 2013-05-03 08:23 PM
 
-categories: coding
-tags: basics markdown
+categories: notes
+tags: coding basics markdown
 
 published: true
 ---

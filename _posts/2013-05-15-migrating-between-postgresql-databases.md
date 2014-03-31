@@ -7,8 +7,8 @@ title: Migrating between PostgreSQL Databases
 description: Commands for migrating from one PostgreSQL database to another
 date: 2013-05-15 08:07 PM
 
-categories: coding
-tags: postgresql
+categories: notes
+tags: coding postgresql
 
 published: true
 ---

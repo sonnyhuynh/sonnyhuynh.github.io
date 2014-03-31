@@ -7,7 +7,7 @@ title: "Comment Away!"
 description: "Added Disqus commenting system to blog posts"
 date: 2014-03-21 06:38 PM
 
-categories: news
+categories: rants
 tags: []
 
 image: disqus-logo-white-blue.png

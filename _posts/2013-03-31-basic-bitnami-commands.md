@@ -7,8 +7,8 @@ title: Basic Bitnami Commands
 description: Quick reference for basic Bitnami stack commands
 date: 2013-03-31 07:45 PM
 
-categories: coding
-tags: basics
+categories: notes
+tags: coding basics
 
 published: true
 ---

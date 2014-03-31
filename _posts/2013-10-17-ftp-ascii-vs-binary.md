@@ -7,8 +7,8 @@ title: FTP - ASCII vs Binary
 description: General rule of thumb for deciding which FTP transfer mode to use
 date: 2013-10-17 06:06 PM
 
-categories: coding
-tags: basics ftp
+categories: notes
+tags: coding basics ftp
 
 published: true
 ---

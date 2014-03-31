@@ -7,8 +7,8 @@ title: Useful Git Commands
 description: Quick reference for useful git commands
 date: 2013-03-21 10:31 PM
 
-categories: coding
-tags: basics
+categories: notes
+tags: coding basics
 
 published: true
 ---

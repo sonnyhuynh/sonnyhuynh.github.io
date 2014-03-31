@@ -7,8 +7,8 @@ title: "Mac Apps I'm Thankful For"
 description: "The Mac apps that I'm thankful for this year."
 date: 2013-11-28 10:13 AM
 
-categories: productivity
-tags: apps
+categories: rants
+tags: productivity apps
 
 published: true
 ---

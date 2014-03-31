@@ -6,8 +6,8 @@ comments: true
 title: Why I switched from WordPress to Jekyll
 date: 2013-08-27 04:30 PM
 
-categories: news
-tags: rants jekyll github
+categories: rants
+tags: jekyll github
 
 published: true
 ---

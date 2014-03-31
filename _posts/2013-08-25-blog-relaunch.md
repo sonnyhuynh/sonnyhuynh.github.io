@@ -5,7 +5,7 @@ permalink: /blog-relaunch
 title: Blog Relaunch!
 date: 2013-08-25 07:29 PM
 
-categories: news
+categories: rants
 tags: []
 
 published: true

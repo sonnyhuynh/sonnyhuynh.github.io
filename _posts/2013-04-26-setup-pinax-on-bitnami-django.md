@@ -7,8 +7,8 @@ title: Setting up pinax-project-account on Bitnami Django Stack for Mac/Linux
 description: Walkthrough on how to install a Bitnami Django 1.4.5 stack on Mac/Linux and then setup + deploy the pinax-project-account starter project to the stack
 date: 2013-04-26 06:11 PM
 
-categories: coding
-tags: django python bitnami pinax
+categories: guides
+tags: coding django python bitnami pinax
 
 published: true
 ---

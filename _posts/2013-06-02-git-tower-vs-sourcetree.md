@@ -7,8 +7,8 @@ title: "Review: Git Clients for Mac - Tower vs SourceTree"
 description: Quick review/comparison on Git Tower and SourceTree
 date: 2013-06-02 02:17 PM
 
-categories: coding
-tags: reviews
+categories: reviews
+tags: coding
 
 image: tower_vs_sourcetree.png
 

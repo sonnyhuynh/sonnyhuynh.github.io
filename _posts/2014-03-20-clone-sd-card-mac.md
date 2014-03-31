@@ -7,8 +7,8 @@ title: "Clone SD Card (Mac)"
 description: "How to clone an SD card on Mac"
 date: 2014-03-20 08:33 PM
 
-categories: coding
-tags: mac pi
+categories: guides
+tags: coding mac pi
 
 published: true
 ---

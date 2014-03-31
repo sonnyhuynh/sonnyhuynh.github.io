@@ -7,8 +7,8 @@ title: Markdown on Save Improved vs WP-Markdown
 description: "A short review on two Markdown WordPress plugins: Markdown on Saved Improved and WP-Markdown"
 date: 2013-05-24 09:00 PM
 
-categories: coding
-tags: reviews
+categories: reviews
+tags: coding
 
 published: true
 ---

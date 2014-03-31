@@ -7,8 +7,8 @@ title: Basic Virtualenv Commands
 description: Quick reference for basic virtualenv commands
 date: 2013-03-24 05:38 PM
 
-categories: coding
-tags: basics python
+categories: notes
+tags: coding basics python
 
 published: true
 ---

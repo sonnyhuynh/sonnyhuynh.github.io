@@ -7,8 +7,8 @@ title: Migrate Django from SQLite to MySQL
 description: Problems I have encountered when migrating Django applications from SQLite to MySQL
 date: 2013-09-22 10:39 AM
 
-categories: coding
-tags: django python sqlite mysql
+categories: rants
+tags: coding django python sqlite mysql
 
 published: true
 ---

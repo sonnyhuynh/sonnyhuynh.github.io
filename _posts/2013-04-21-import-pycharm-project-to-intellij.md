@@ -7,8 +7,8 @@ title: Import a PyCharm Project to IntelliJ IDEA
 description: How to import a PyCharm 2.7.1 project to IntelliJ IDEA 12.1.1 for Mac
 date: 2013-04-21 06:37 PM
 
-categories: coding
-tags: apps django python intellij pycharm
+categories: guides
+tags: coding apps django python intellij pycharm
 
 published: true
 ---
