@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 
 title: "How to Fix a Stuck iPhone Screen"
 description: "How to fix your iPhone if it's on, but the screen won't turn on."
