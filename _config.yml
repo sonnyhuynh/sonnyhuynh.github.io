@@ -14,6 +14,9 @@ pygments: true
 permalink: /:title
 images: /assets/posts
 
+paginate: 3
+paginate_path: "page/:num/"
+
 exclude: [
 "README.md",
 "CNAME",
