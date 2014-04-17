@@ -2,6 +2,24 @@
 layout: default
 title: Personal software blog
 ---
-{% assign post = site.posts.first %}
 
-{% include category.html post=post %}
+{% for post in paginator.posts %}
+    {% include category.html post=post %}
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<hr/>
+
+<ul class="list-unstyled spacing row">
+    <li class="col-xs-6">
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}">Older Posts</a>
+        {% endif %}
+    </li>
+    <li class="col-xs-6 text-right">
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}">Newer Posts</a>
+        {% endif %}
+    </li>
+</ul>
+{% endif %}
