@@ -13,8 +13,6 @@
         {% include widget/tag_cloud.html %}
     {% endif %}
 
-</article>
-
 {% unless paginator.page %}
     <hr/>
     {% include widget/paginator.html post=post %}
@@ -22,9 +20,15 @@
 
 {% if site.comments %}
     <hr/>
-    {% if isSinglePost %}
-        {% include widget/comments.html post=include.post %}
-    {% else %}
-        {% include widget/comments_count.html post=include.post %}
+
+    {% if post.comments %}
+        {% if isSinglePost %}
+            {% include widget/comments.html post=include.post %}
+        {% else %}
+            {% include widget/comments_count.html post=include.post %}
+            <hr/>
+        {% endif %}
     {% endif %}
 {% endif %}
+
+</article>
