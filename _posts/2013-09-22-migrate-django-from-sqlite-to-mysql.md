@@ -17,7 +17,7 @@ Migrating a Django application from SQLite to MySQL can be a very complex task. 
 
 Of course, nothing goes as smooth as it should. Here are two issues that I encountered during migrations and how I resolved them.
 
-#`ForeignKey` relationships
+### `ForeignKey` relationships
 
 Upon running the `to_slave.run()` function inside the python shell, I encountered repeated occurrences of this error:
 
@@ -31,7 +31,7 @@ I suppose this all could be resolved by optimizing the order the objects are re-
 
 Also, the more complex the relationships are in the database, the more times you may have to run the `to_slave.run()` function until no longer produces any errors. At this point, optimization of the function might be necessary.
 
-#`ManyToMany` relationships
+### `ManyToMany` relationships
 
 Another issue that I ran into was with objects containing `ManyToMany` relationships. Other developers had mentioned about this in the comments of the guide, however the solution remains unclear.
 
@@ -41,7 +41,7 @@ When the `to_slave.run()` function runs, it does create the objects that contain
 
 _Unfortunately, this will be a problem for larger databases, as manually reconnecting `ManyToMany` relationships in this situation is not a proper solution. I will revisit this when the situation arises._
 
-# Final Thoughts
+### Final Thoughts
 - Use SQLite if your app has little to no concurrency
 - Switch to MySQL as early as possible, while the production database is still small/manageable. This will save you the pain of worrying about migration problems with large data sets.
 - MySQL -> production, SQLite -> development
