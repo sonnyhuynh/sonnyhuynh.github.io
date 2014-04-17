@@ -15,10 +15,10 @@
 
 </article>
 
-{% if page.url != "/index.html" %}
+{% unless paginator.page %}
     <hr/>
     {% include widget/paginator.html post=post %}
-{% endif %}
+{% endunless %}
 
 {% if site.comments %}
     <hr/>
