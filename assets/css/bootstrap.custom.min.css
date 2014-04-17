@@ -1,5 +1,5 @@
 @media (min-width:992px){.navbar{min-height:100px}}
-@media (min-width:992px){.navbar-brand{padding-top:40px;padding-bottom:40px}}
+@media (min-width:992px){.navbar-brand{padding-top:40px;padding-bottom:60px}}
 @media (min-width:992px){.navbar-nav>li>a{padding-top:40px;padding-bottom:40px}}
 .navbar-btn{margin-top:20.5px;margin-bottom:20.5px}
 .link-underline a{text-decoration:underline}
