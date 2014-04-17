@@ -12,3 +12,4 @@
 .navbar-nav{font-size:1.5em;letter-spacing:1px}
 .s-header{background:#333}@media (max-width:767px){.s-header{background:transparent}}
 @media (min-width:768px){.navbar{margin-bottom:0}}
+article:not(:last-of-type){margin-bottom:50px}

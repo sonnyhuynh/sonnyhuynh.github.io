@@ -1,6 +1,8 @@
 @import "../_repos/bootstrap/less/variables.less";
 @import "navbar.custom.less";
 
+@post-spacing: 50px;
+
 .link-underline {
   a {
     text-decoration: underline;
@@ -50,5 +52,11 @@
 .navbar {
   @media (min-width: @screen-sm-min) {
     margin-bottom: 0;
+  }
+}
+
+article {
+  &:not(:last-of-type) {
+    margin-bottom: @post-spacing;
   }
 }
