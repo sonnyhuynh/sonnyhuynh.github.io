@@ -1,17 +1,19 @@
-</div>
+    </div>
 
-{% assign post = include.post %}
+    {% assign post = include.post %}
 
-{% if page.url == post.url %}
-    {% assign isSinglePost = true %}
-{% else %}
-    {% assign isSinglePost = false %}
-{% endif %}
+    {% if page.url == post.url %}
+        {% assign isSinglePost = true %}
+    {% else %}
+        {% assign isSinglePost = false %}
+    {% endif %}
 
-{% if isSinglePost %}
-    <hr/>
-    {% include widget/tag_cloud.html %}
-{% endif %}
+    {% if isSinglePost %}
+        <hr/>
+        {% include widget/tag_cloud.html %}
+    {% endif %}
+
+</article>
 
 {% if page.url != "/index.html" %}
     <hr/>
