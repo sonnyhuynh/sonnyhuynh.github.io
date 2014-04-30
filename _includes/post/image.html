@@ -8,6 +8,6 @@
 
 {% if post.image and (post.image != "") %}
 <p>{% unless isSinglePost %}<a href="{{ post.url }}">{% endunless %}
-    <img class="img-responsive center-block" src="{{ site.images }}{{ post.url }}/{{ post.image }}" alt="{{ post.title }}"/>
+    <img class="img-responsive center-block{% if post.wrap %} col-md-6{% endif %}" src="{{ site.images }}{{ post.url }}/{{ post.image }}" alt="{{ post.title }}"/>
     {% unless isSinglePost %}</a>{% endunless %}</p>
 {% endif %}
