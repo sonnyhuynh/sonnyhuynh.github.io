@@ -7,18 +7,20 @@
 {% endif %}
 
 <article>
-    <h2>{% unless isSinglePost%}<a href="{{ post.url }}">{% endunless %}{{ post.title }}{% unless isSinglePost %}</a>{% endunless %}</h2>
+    <header>
+        <h2>{% unless isSinglePost%}<a href="{{ post.url }}">{% endunless %}{{ post.title }}{% unless isSinglePost %}</a>{% endunless %}</h2>
 
-    <hr/>
+        <hr/>
 
-    <ul class="list-unstyled spacing row">
-        <li class="col-xs-6">
-            <p class="text-muted text-monospace"><i class="icon-large icon-calendar-empty"></i> <small>{{ post.date | date_to_string }}</small></p>
-        </li>
-        <li class="col-xs-6 text-right">
-            <p class="text-muted text-monospace"><i class="icon-large icon-folder-close-alt"></i> <small><a href="/{{ post.categories }}/posts">{{ post.categories }}</a></small></p>
-        </li>
-    </ul>
+        <ul class="list-unstyled spacing row">
+            <li class="col-xs-6">
+                <p class="text-muted text-monospace"><i class="icon-large icon-calendar-empty"></i> <small>{{ post.date | date_to_string }}</small></p>
+            </li>
+            <li class="col-xs-6 text-right">
+                <p class="text-muted text-monospace"><i class="icon-large icon-folder-close-alt"></i> <small><a href="/{{ post.categories }}/posts">{{ post.categories }}</a></small></p>
+            </li>
+        </ul>
+    </header>
 
     <div class="post link-underline">
 
