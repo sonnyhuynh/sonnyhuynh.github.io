@@ -28,3 +28,6 @@ analytics:
 
 comments: true
 disqus_shortname: sonnyhuynh
+
+gems:
+- jekyll-sitemap
