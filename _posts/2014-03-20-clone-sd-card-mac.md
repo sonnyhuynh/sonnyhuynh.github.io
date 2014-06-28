@@ -60,7 +60,7 @@ _Image clones can be huge files, so compressing them will help save HD space!_
 
 **Compress image**
 {% highlight bash %}
-$ gzip [image file].gz
+$ gzip [image file]
 {% endhighlight %}
 
 **Uncompress image**
