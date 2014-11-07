@@ -10,7 +10,7 @@ author:
     linkedin: sonnyhuynh
 
 markdown: redcarpet
-pygments: true
+highlighter: true
 permalink: /:title
 images: /assets/posts
 
