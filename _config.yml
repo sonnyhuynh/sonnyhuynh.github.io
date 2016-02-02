@@ -9,7 +9,6 @@ author:
     twitter: sonny_huynh
     linkedin: sonnyhuynh
 
-markdown: redcarpet
 highlighter: true
 permalink: /:title
 images: /assets/posts
