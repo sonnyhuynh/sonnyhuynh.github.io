@@ -10,7 +10,7 @@ author:
     linkedin: sonnyhuynh
 
 highlighter: true
-permalink: /:title
+permalink: /:title/
 images: /assets/posts
 
 paginate: 3
