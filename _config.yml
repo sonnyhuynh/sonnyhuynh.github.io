@@ -31,3 +31,5 @@ disqus_shortname: sonnyhuynh
 
 gems:
 - jekyll-sitemap
+- jekyll-paginate
+
