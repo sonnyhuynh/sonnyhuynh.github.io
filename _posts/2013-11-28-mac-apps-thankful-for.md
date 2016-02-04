@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /productivity/mac-apps-thankful-for
+permalink: /productivity/mac-apps-thankful-for/
 comments: true
 
 title: "Mac Apps I'm Thankful For"

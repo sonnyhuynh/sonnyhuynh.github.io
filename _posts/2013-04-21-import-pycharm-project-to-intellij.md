@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /import-pycharm-project-to-intellij
+permalink: /import-pycharm-project-to-intellij/
 comments: true
 
 title: Import a PyCharm Project to IntelliJ IDEA

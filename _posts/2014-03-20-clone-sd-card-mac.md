@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /coding/clone-sd-card-mac
+permalink: /coding/clone-sd-card-mac/
 comments: true
 
 title: "Clone SD Card (Mac)"

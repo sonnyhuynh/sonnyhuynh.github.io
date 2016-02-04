@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /migrate-django-from-sqlite-to-mysql
+permalink: /migrate-django-from-sqlite-to-mysql/
 comments: true
 
 title: Migrate Django from SQLite to MySQL

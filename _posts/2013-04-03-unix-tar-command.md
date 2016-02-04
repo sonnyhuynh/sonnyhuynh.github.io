@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /unix-tar-command
+permalink: /unix-tar-command/
 comments: true
 
 title: Unix Tar Command

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /basic-south-commands
+permalink: /basic-south-commands/
 comments: true
 
 title: Basic South Commands

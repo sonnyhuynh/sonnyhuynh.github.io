@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /basic-postgresql-commands
+permalink: /basic-postgresql-commands/
 comments: true
 
 title: Basic PostgreSQL Commands

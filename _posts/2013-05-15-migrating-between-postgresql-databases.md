@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /migrating-between-postgresql-databases
+permalink: /migrating-between-postgresql-databases/
 comments: true
 
 title: Migrating between PostgreSQL Databases

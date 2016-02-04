@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /alfred2-chrome-incognito-workflow
+permalink: /alfred2-chrome-incognito-workflow/
 comments: true
 
 title: Alfred 2 Chrome Incognito Workflow

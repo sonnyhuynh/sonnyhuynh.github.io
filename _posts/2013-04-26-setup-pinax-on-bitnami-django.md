@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /setup-pinax-on-bitnami-django
+permalink: /setup-pinax-on-bitnami-django/
 comments: true
 
 title: Setting up pinax-project-account on Bitnami Django Stack for Mac/Linux

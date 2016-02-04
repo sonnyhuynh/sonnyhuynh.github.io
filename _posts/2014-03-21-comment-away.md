@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /news/comment-away
+permalink: /news/comment-away/
 comments: true
 
 title: "Comment Away!"

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /markdown-on-save-improved-vs-wp-markdown
+permalink: /markdown-on-save-improved-vs-wp-markdown/
 comments: true
 
 title: Markdown on Save Improved vs WP-Markdown

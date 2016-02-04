@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /why-i-switched-to-jekyll
+permalink: /why-i-switched-to-jekyll/
 comments: true
 
 title: Why I switched from WordPress to Jekyll

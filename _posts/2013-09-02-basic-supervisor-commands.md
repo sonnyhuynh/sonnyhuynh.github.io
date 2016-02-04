@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /basic-supervisor-commands
+permalink: /basic-supervisor-commands/
 comments: true
 
 title: Basic Supervisor Commands

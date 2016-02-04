@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /basic-virtualenv-commands
+permalink: /basic-virtualenv-commands/
 comments: true
 
 title: Basic Virtualenv Commands

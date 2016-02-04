@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /markdown-quick-reference
+permalink: /markdown-quick-reference/
 comments: true
 
 title: Markdown Quick Reference (with Demo!)

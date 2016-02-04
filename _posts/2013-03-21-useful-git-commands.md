@@ -1,6 +1,6 @@
 --- 
 layout: post
-permalink: /useful-git-commands
+permalink: /useful-git-commands/
 comments: true
 
 title: Useful Git Commands

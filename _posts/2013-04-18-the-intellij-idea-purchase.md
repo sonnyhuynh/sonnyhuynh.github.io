@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /the-intellij-idea-purchase
+permalink: /the-intellij-idea-purchase/
 comments: true
 
 title: The IntelliJ IDEA Purchase

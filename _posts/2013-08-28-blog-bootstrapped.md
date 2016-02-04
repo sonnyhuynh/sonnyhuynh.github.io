@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /blog-bootstrapped
+permalink: /blog-bootstrapped/
 
 title: Blog BOOTSTRAPPED!
 date: 2013-08-28 9:32 PM
