@@ -9,7 +9,7 @@ author:
     twitter: sonny_huynh
     linkedin: sonnyhuynh
 
-highlighter: rogue
+highlighter: rouge
 permalink: /:title/
 images: /assets/posts
 
