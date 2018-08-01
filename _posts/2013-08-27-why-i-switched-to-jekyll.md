@@ -16,7 +16,7 @@ My web hosting provider, [Hostlatte](https://www.hostlatte.com/) was down for ov
 
 After the restore, the blog was still suffering from WordPress database connection issues, which I believe was due to the hosting provider still being wonky. I have restored using the backup copy I provided Hostlatte, so the restore should have worked. At this point, my patience and confidence was wearing thin, so I decided I wanted to switch providers.
 
-And so, I stumbled upon a simple static blog generator, [Jekyll](http://jekyllrb.com/). Neat thing is [GitHub Pages](http://pages.github.com/) provides **free** hosting that happens to include Jekyll support!
+And so, I stumbled upon a simple static blog generator, [Jekyll](https://jekyllrb.com/). Neat thing is [GitHub Pages](https://pages.github.com/) provides **free** hosting that happens to include Jekyll support!
 
 So in an afternoon, I was able to do the following:
 

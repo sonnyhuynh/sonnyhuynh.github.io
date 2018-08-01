@@ -13,7 +13,7 @@ tags: coding basics
 published: true
 ---
 
-> **Tip:** Use [Supervisor](http://supervisord.org/) in conjunction with [Celery](http://www.celeryproject.org/) for automated or asynchronous goodness for your Django apps!
+> **Tip:** Use [Supervisor](https://supervisord.org/) in conjunction with [Celery](https://www.celeryproject.org/) for automated or asynchronous goodness for your Django apps!
 
 Install
 {% highlight bash %}
@@ -49,4 +49,4 @@ $ supervisorctl update
 {% endhighlight %}
 
 ### More Information
-- Supervisor: A Process Control System | [supervisord.org](http://supervisord.org/)
+- Supervisor: A Process Control System | [supervisord.org](https://supervisord.org/)

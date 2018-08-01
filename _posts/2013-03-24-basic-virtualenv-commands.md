@@ -45,4 +45,4 @@ $ virtualenv --distribute [environment dir]
 
 ### More Information
 
-- Official virtualenv documentation | [virtualenv.org](http://www.virtualenv.org)
+- Official virtualenv documentation | [virtualenv.org](https://www.virtualenv.org)

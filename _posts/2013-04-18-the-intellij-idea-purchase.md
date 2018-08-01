@@ -37,7 +37,7 @@ Still a lot though of money, and difficult to justify. PASS...
 
 Along came a tweet by [@jetbrains]:
 
->Need more reasons to buy great tools from JetBrains? April 15-22, Get up to 50% OFF and support [#EarthDay]! [http://blog.jetbrains.com/blog/2013/04/1...]
+>Need more reasons to buy great tools from JetBrains? April 15-22, Get up to 50% OFF and support [#EarthDay]! [https://blog.jetbrains.com/blog/2013/04/1...]
 
 Sweet! 40% off PyCharm and PhpStorm with this deal: $99 (PyCharm) + $99 (PhpStorm) * 40% OFF = **$118**
 
@@ -59,11 +59,11 @@ Obviously, this beat the pants off all previous prices, so it's something I just
 
 Now I'm a happy and proud owner of [IntelliJ IDEA]! Thanks [@jetbrains] for making your product so awesome (and for the great deal)!
 
-   [IntelliJ IDEA]: http://www.jetbrains.com/idea
-   [PyCharm]: http://www.jetbrains.com/pycharm
-   [WebStorm]: http://www.jetbrains.com/webstorm
-   [PhpStorm]: http://www.jetbrains.com/phpstorm
+   [IntelliJ IDEA]: https://www.jetbrains.com/idea
+   [PyCharm]: https://www.jetbrains.com/pycharm
+   [WebStorm]: https://www.jetbrains.com/webstorm
+   [PhpStorm]: https://www.jetbrains.com/phpstorm
    [@jetbrains]: https://twitter.com/jetbrains
    [#EarthDay]: https://twitter.com/search/%23EarthDay
-   [http://blog.jetbrains.com/blog/2013/04/1...]: http://t.co/EgQLbt3aM8 "http://blog.jetbrains.com/blog/2013/04/15/50-off-jetbrains-tools-and-help-to-plant-a-billion-trees/"
-   [smart code completion]: http://www.jetbrains.com/idea/features/code_completion.html
+   [https://blog.jetbrains.com/blog/2013/04/1...]: https://t.co/EgQLbt3aM8 "https://blog.jetbrains.com/blog/2013/04/15/50-off-jetbrains-tools-and-help-to-plant-a-billion-trees/"
+   [smart code completion]: https://www.jetbrains.com/idea/features/code_completion.html

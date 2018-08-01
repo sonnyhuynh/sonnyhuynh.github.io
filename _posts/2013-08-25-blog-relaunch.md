@@ -11,7 +11,7 @@ tags: []
 published: true
 ---
 
-Today, I'm relaunching my blog, this time powered by [GitHub Pages](http://pages.github.com/) and [Jekyll](http://jekyllrb.com/)!
+Today, I'm relaunching my blog, this time powered by [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/)!
 
 Cool thing is you can `git clone` [my entire site](https://github.com/sonnyhuynh/sonnyhuynh.github.io) and have a local copy for yourself! _Not sure why you would do this, but the point is that you can!_
 

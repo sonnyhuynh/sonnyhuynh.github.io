@@ -18,7 +18,7 @@ published: true
 <ul class="list-group">
     <li class="list-group-item">
         <div class="media">
-            <a class="pull-left" href="http://www.alfredapp.com/">
+            <a class="pull-left" href="https://www.alfredapp.com/">
                 <img class="media-object" src="{{ site.images }}{{ page.url }}/alfred.png" alt="Alfred">
             </a>
             <div class="media-body">
@@ -29,7 +29,7 @@ published: true
     </li>
     <li class="list-group-item">
         <div class="media">
-            <a class="pull-left" href="http://www.trankynam.com/atext/">
+            <a class="pull-left" href="https://www.trankynam.com/atext/">
                 <img class="media-object" src="{{ site.images }}{{ page.url }}/atext.png" alt="aText">
             </a>
             <div class="media-body pull-left">
@@ -40,7 +40,7 @@ published: true
     </li>
     <li class="list-group-item">
         <div class="media">
-            <a class="pull-left" href="http://www.trankynam.com/xtrafinder/">
+            <a class="pull-left" href="https://www.trankynam.com/xtrafinder/">
                 <img class="media-object" src="{{ site.images }}{{ page.url }}/xtrafinder.png" alt="XtraFinder">
             </a>
             <div class="media-body">
@@ -51,7 +51,7 @@ published: true
     </li>
     <li class="list-group-item">
         <div class="media">
-            <a class="pull-left" href="http://www.boastr.net/">
+            <a class="pull-left" href="https://www.boastr.net/">
                 <img class="media-object" src="{{ site.images }}{{ page.url }}/bettertouchtool.png" alt="BetterTouchTool">
             </a>
             <div class="media-body pull-left">
@@ -62,7 +62,7 @@ published: true
     </li>
     <li class="list-group-item">
         <div class="media">
-            <a class="pull-left" href="http://www.iterm2.com/">
+            <a class="pull-left" href="https://www.iterm2.com/">
                 <img class="media-object" src="{{ site.images }}{{ page.url }}/iterm.png" alt="iTerm 2">
             </a>
             <div class="media-body pull-left">

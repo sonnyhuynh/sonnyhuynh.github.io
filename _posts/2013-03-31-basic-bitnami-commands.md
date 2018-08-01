@@ -78,5 +78,5 @@ $ exit
 
 ### More Information
 
-- Bitnami Website | [bitnami.org](http://bitnami.org)
-- Bitnami Documentation | [wiki.bitnami.org](http://wiki.bitnami.org)
+- Bitnami Website | [bitnami.org](https://bitnami.org)
+- Bitnami Documentation | [wiki.bitnami.org](https://wiki.bitnami.org)

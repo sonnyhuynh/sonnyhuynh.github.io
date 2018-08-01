@@ -13,7 +13,7 @@ tags: coding mac pi
 published: true
 ---
 
-Here's how to clone an SD card on a Mac. Useful when you want to backup and restore your [Raspberry Pi](http://www.raspberrypi.org/).
+Here's how to clone an SD card on a Mac. Useful when you want to backup and restore your [Raspberry Pi](https://www.raspberrypi.org/).
 
 **Find path to SD card**
 {% highlight bash %}

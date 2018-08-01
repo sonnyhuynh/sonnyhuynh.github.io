@@ -13,14 +13,14 @@ tags: coding django python bitnami pinax
 published: true
 ---
 
-Wrote a walkthrough to show you how to install a [Bitnami Django 1.4.5](http://bitnami.com/stack/django) stack on a Mac or Linux box and then setup + deploy the [pinax-project-account](https://github.com/pinax/pinax-project-account) Django starter project with a newly created sqlite3 DB that can be accessed at `localhost:8080`.
+Wrote a walkthrough to show you how to install a [Bitnami Django 1.4.5](https://bitnami.com/stack/django) stack on a Mac or Linux box and then setup + deploy the [pinax-project-account](https://github.com/pinax/pinax-project-account) Django starter project with a newly created sqlite3 DB that can be accessed at `localhost:8080`.
 
 <!--more Check it out after the jump!-->
 
 
 ### Before you begin
 
-Download the [Bitnami Django native installer](http://bitnami.com/stack/django/installer) for your system.
+Download the [Bitnami Django native installer](https://bitnami.com/stack/django/installer) for your system.
 
 <small>This walkthrough uses the Bitnami Django 1.4.5 native installer. If you're using a different version, please be aware that the steps may differ from this guide.</small>
 
@@ -45,7 +45,7 @@ Run the native installer `.dmg`
 
 ### Inside the stack environment
 
-**Step 1:** Open a shell environment or Terminal (<a href="http://www.iterm2.com/">iTerm2</a>!)
+**Step 1:** Open a shell environment or Terminal (<a href="https://www.iterm2.com/">iTerm2</a>!)
 
 {% highlight bash %}
 $ cd [stack location]
@@ -221,5 +221,5 @@ Your app can be found at `localhost:8080`
 
 ### More Information
 
-- Bitnami Django Stack | [bitnami.com/stack/django](http://bitnami.com/stack/django)
+- Bitnami Django Stack | [bitnami.com/stack/django](https://bitnami.com/stack/django)
 - Django Website | [djangoproject.com](https://www.djangoproject.com/)

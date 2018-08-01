@@ -60,4 +60,4 @@ $ tar xvjf [archive]
 
 ### More Information
 
-- The Ultimate Tar Command Tutorial with 10 Practical Examples @ The Geek Stuff | [www.thegeekstuff.com/2010/04/unix-tar-command-examples/](http://www.thegeekstuff.com/2010/04/unix-tar-command-examples/)
+- The Ultimate Tar Command Tutorial with 10 Practical Examples @ The Geek Stuff | [www.thegeekstuff.com/2010/04/unix-tar-command-examples/](https://www.thegeekstuff.com/2010/04/unix-tar-command-examples/)

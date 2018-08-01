@@ -69,5 +69,5 @@ In the end, I still sometimes use Git via command line. Typically, it's when I'm
 - Tower | [git-tower.com][Tower]
 - SourceTree | [sourcetreeapp.com][SourceTree]
 
-   [Tower]: http://www.git-tower.com/ "Tower"
-   [SourceTree]: http://www.sourcetreeapp.com/ "SourceTree"
+   [Tower]: https://www.git-tower.com/ "Tower"
+   [SourceTree]: https://www.sourcetreeapp.com/ "SourceTree"

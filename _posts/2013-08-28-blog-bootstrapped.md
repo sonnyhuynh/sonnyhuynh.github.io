@@ -11,7 +11,7 @@ tags: []
 published: true
 ---
 
-[Bootstrapped](http://getbootstrap.com/) the site, so it should be a little nicer than the default Jekyll template.
+[Bootstrapped](https://getbootstrap.com/) the site, so it should be a little nicer than the default Jekyll template.
 
 **Really Random Note:** This is what I think of whenever I run Jekyll now:
 

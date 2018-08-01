@@ -101,4 +101,4 @@ This walkthrough's Django project structure:
 
 **For a more in-depth and better written guide:**
 
-- Setting up Python Django project using IntelliJ 11 | [Rodrigos Science](http://rodrigothescientist.wordpress.com/2012/08/03/setting-up-pythondjango-project-using-intellij-11/)
+- Setting up Python Django project using IntelliJ 11 | [Rodrigos Science](https://rodrigothescientist.wordpress.com/2012/08/03/setting-up-pythondjango-project-using-intellij-11/)

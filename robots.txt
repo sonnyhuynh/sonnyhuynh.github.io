@@ -1,1 +1,1 @@
-Sitemap: http://www.sonnyhuynh.com/sitemap.xml
+Sitemap: https://www.sonnyhuynh.com/sitemap.xml

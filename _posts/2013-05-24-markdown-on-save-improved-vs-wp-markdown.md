@@ -13,7 +13,7 @@ tags: coding
 published: true
 ---
 
-I was looking to write and edit my posts directly with [Markdown](http://daringfireball.net/projects/markdown/) syntax to streamline my posting workflow. I stumbled upon and tried out these two Markdown WordPress plugins: [Markdown on Save Improved](http://wordpress.org/extend/plugins/markdown-on-save-improved/) and [WP-Markdown](http://wordpress.org/extend/plugins/wp-markdown/).
+I was looking to write and edit my posts directly with [Markdown](https://daringfireball.net/projects/markdown/) syntax to streamline my posting workflow. I stumbled upon and tried out these two Markdown WordPress plugins: [Markdown on Save Improved](https://wordpress.org/extend/plugins/markdown-on-save-improved/) and [WP-Markdown](https://wordpress.org/extend/plugins/wp-markdown/).
 
 <!--more Here is a quick rundown on my experience with them.-->
 
@@ -49,6 +49,6 @@ Ultimately, I decided to go with Markdown on Save Improved for its preservation 
 
 ### More Information
 
-- Markdown | [daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/)
-- Markdown on Saved Improved | [wordpress.org/extend/plugins/markdown-on-save-improved/](http://daringfireball.net/projects/markdown/)
-- WP-Markdown | [wordpress.org/extend/plugins/wp-markdown/](http://wordpress.org/extend/plugins/wp-markdown/)
+- Markdown | [daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/)
+- Markdown on Saved Improved | [wordpress.org/extend/plugins/markdown-on-save-improved/](https://daringfireball.net/projects/markdown/)
+- WP-Markdown | [wordpress.org/extend/plugins/wp-markdown/](https://wordpress.org/extend/plugins/wp-markdown/)

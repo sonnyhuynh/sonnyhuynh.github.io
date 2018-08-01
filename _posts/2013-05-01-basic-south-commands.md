@@ -35,4 +35,4 @@ Convert existing DB to South
 {% endhighlight %}
 
 ### More Information
-- South Website | [south.aeracode.org](http://south.aeracode.org/)
+- South Website | [south.aeracode.org](https://south.aeracode.org/)

@@ -92,5 +92,5 @@ $ git revert [commit]
 
 ### More Information
 
-- Pro Git by Scott Chacon (FREE online book) | [git-scm.com/book](http://git-scm.com/book)
-- Git Website | [git-scm.com](http://git-scm.com)
+- Pro Git by Scott Chacon (FREE online book) | [git-scm.com/book](https://git-scm.com/book)
+- Git Website | [git-scm.com](https://git-scm.com)

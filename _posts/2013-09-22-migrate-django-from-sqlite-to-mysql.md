@@ -13,7 +13,7 @@ tags: coding django python sqlite mysql
 published: true
 ---
 
-Migrating a Django application from SQLite to MySQL can be a very complex task. Thankfully, I was able to successfully perform migrations using this guide I found: [Move django from SQLite to MySQL](http://macrotoma.blogspot.com/2012/10/solved-move-django-from-sqlite-to-mysql.html).
+Migrating a Django application from SQLite to MySQL can be a very complex task. Thankfully, I was able to successfully perform migrations using this guide I found: [Move django from SQLite to MySQL](https://macrotoma.blogspot.com/2012/10/solved-move-django-from-sqlite-to-mysql.html).
 
 Of course, nothing goes as smooth as it should. Here are two issues that I encountered during migrations and how I resolved them.
 
