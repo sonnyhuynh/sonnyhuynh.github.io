@@ -27,7 +27,7 @@ analytics:
 comments: true
 disqus_shortname: sonnyhuynh
 
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-paginate
 
