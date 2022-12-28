@@ -1,0 +1,65 @@
+---
+---
+
+body {
+    font-family: Menlo, Monaco, 'Courier New', monospace;
+    background: hsl(231, 15, 18);
+    color: hsl(60, 30, 96);
+}
+
+.center {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  
+h1 {
+    color: #8be9fd;
+    text-align: center;
+    font-size: 6em;
+    margin-bottom: 0;
+    text-transform: lowercase;
+}
+
+h2 {
+    color: hsl(65, 92, 76);
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+footer {
+    color: hsla(0,0%,100%,.6);
+    text-align: center;
+    padding: 1em;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    margin-left: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin: 0.5em;
+
+    a {
+        color: hsl(60, 30, 96);
+
+        &:hover {
+            color: hsla(0,0%,100%,.6);
+        }
+    }
+}
+
+.bottom-center {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
