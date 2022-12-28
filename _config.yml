@@ -3,31 +3,16 @@ description: Quick tips, guides, reviews and rants relating to software developm
 url: https://www.sonnyhuynh.com
 
 author:
-    name: "Sonny Huynh"
+    name: Sonny Huynh
+    pronunciation: (sun-ee win)
     email: sonny@sonnyhuynh.com
     github: sonnyhuynh
     linkedin: sonnyhuynh
 
-highlighter: rouge
-permalink: /:title/
-images: /assets/posts
-
-paginate: 3
-paginate_path: "page/:num/"
-
-exclude: [
-"README.md",
-"CNAME",
-"Gemfile*",
-]
+source: src
 
 analytics:
     id: UA-33823626-1
 
-comments: true
-disqus_shortname: sonnyhuynh
-
 plugins:
 - jekyll-sitemap
-- jekyll-paginate
-
