@@ -1,9 +1,0 @@
-<div class="btn-group btn-group-lg{% if include.is_nav %} navbar-btn pull-right hidden-xs hidden-sm{% else %} social{% endif %}">
-    <a class="btn btn-success{% unless include.is_nav %} visible-xs visible-sm{% endunless %}" href="mailto:{{ site.author.email }}" title="{{ site.author.email }}"><i class="icon-2x icon-envelope-alt"></i></a>
-    <a class="btn btn-default{% unless include.is_nav %} visible-xs visible-sm{% endunless %}" href="https://github.com/{{ site.author.github }}/" title="GitHub"><i class="icon-2x icon-github"></i></a>
-    <a class="btn btn-primary{% unless include.is_nav %} visible-xs visible-sm{% endunless %}" href="https://www.linkedin.com/in/{{ site.author.linkedin }}/" title="LinkedIn"><i class="icon-2x icon-linkedin"></i></a>
-</div>
-
-{% unless include.is_nav %}
-<hr class="visible-xs visible-sm">
-{% endunless %}
