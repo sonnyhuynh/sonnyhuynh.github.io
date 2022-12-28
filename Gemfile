@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
-#ruby=2.4.6
-gem 'github-pages'
-gem 'jekyll-paginate'
+
+ruby "3.1.3"
+gem "github-pages", "~> 227", group: :jekyll_plugins
+
+gem "webrick", "~> 1.7"
