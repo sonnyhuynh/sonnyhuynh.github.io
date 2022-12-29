@@ -9,7 +9,10 @@ author:
     github: sonnyhuynh
     linkedin: sonnyhuynh
 
-source: src
+exclude:
+    - CNAME
+    - Gemfile*
+    - README*
 
 analytics:
     id: UA-33823626-1
